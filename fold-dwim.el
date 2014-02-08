@@ -1,4 +1,4 @@
-;;; fold-dwim.el -- Unified user interface for Emacs folding modes
+;;; fold-dwim.el --- Unified user interface for Emacs folding modes
 ;;
 ;; Copyright (C) 2004 P J Heslin
 ;;
@@ -375,3 +375,5 @@ at the cursor."
       (eq fold-dwim-outline-style-default 'nested))))
 
 (provide 'fold-dwim)
+
+;;; fold-dwim.el ends here
